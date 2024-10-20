@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-IN"
+title                    : "Chandan Gupta"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chandan Gupta"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "New Delhi, India"
   employer         : "Indian Institute of Technology Delhi"
   uri              : # URL
-  email            : "chandan18386@iiitd.ac.in" 
+  email            : "gchandan.visitor@iitd.ac.in" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=GVQrnLsAAAAJ&hl=en"
