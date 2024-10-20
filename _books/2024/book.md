@@ -1,0 +1,5 @@
+- Proofs and Refutations. Imre Lakatos.  
+- Malt Whisky Year Book 2021.  
+- The Idiot. Fyodor Dostoevsky.  
+- The Myth of Sisyphus. Albert Camus.  
+- Demons. Fyodor Dostoevsky.  
