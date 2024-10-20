@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Chandan Gupta"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant, Multiphysics & Multiscale Mechanics Research Group (M3RG), IIT Delhi"
+  bio              : "Research Assistant, Multiphysics & Multiscale Mechanics Research Group (M3RG), Indian Institute of Technology Delhi"
   location         : "New Delhi, India"
-  employer         : "Indian Institute of Technology Delhi"
+  employer         : 
   uri              : # URL
   email            : "gchandan.visitor@iitd.ac.in" 
 
