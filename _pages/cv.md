@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](https://www.google.com).
+You can find my CV <a href="https://www.google.com" target="_blank">here</a>.
