@@ -1,0 +1,42 @@
+baseURL = "https://chandan21gupta.github.io/"
+title = "An Intellectual Space"
+author = "Chandan Gupta"
+copyright = ""
+languageCode = "en-US"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "A space for research, books, and writing."
+  title = "An Intellectual Space"
+  hideMadeWithLine = false
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+  [[menu.main]]
+    name = "Books"
+    url = "/books/"
+    weight = 4
+  [[menu.main]]
+    name = "Writing"
+    url = "/writing/"
+    weight = 5
+
+[markup]
+  [markup.highlight]
+    style = "friendly"
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+

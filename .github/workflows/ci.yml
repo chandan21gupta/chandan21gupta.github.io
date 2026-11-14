@@ -4,9 +4,11 @@ on:
   push:
     branches:
     - master
+    - main
   pull_request:
     branches:
     - master
+    - main
 
 jobs:
   build:
@@ -31,18 +33,3 @@ jobs:
         name: build
         path: ./public
 
-  deploy:
-    needs: build
-    name: Deploy to GitHub Pages
-    runs-on: ubuntu-latest
-    if: github.event_name == 'push'
-    steps:
-      - uses: actions/checkout@v7
-      - uses: actions/download-artifact@v8
-        with:
-          name: build
-          path: ./public
-      - uses: peaceiris/actions-gh-pages@v4.1.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
