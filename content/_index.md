@@ -15,7 +15,9 @@ I’m interested in **AI for Science**: how AI can enable autonomous scientific 
 
 ### Applied machine learning
 
-In an applied machine learning role, I was an **Associate Machine Learning Scientist at Wadhwani AI** (Dec 2022–Jun 2024). I worked on systems for agriculture, including crop disease identification, yield estimation, and advisory tools, as well as model monitoring and deployment.
+At **Wadhwani AI**, where I was an **Associate Machine Learning Scientist I** (Dec 2022–Jun 2024), I worked on taking machine learning systems for agriculture from development into field use. I built uncertainty-aware crop pest and disease identification models for the National Pest Surveillance Service, using Regularized Adaptive Prediction Sets to make predictions more reliable in real-world conditions. I also developed crop-yield models from soil, weather, and management data, alongside a causal advisory system that offered farmers tailored recommendations.
+
+Beyond the models themselves, I built an automated data-drift monitoring pipeline to flag performance changes and support timely retraining. I also productionized research models with NVIDIA Triton Inference Server, making them available to cloud and Android applications used in the field.
 
 My work on the **Counter Turing Test (CT2)** received the Outstanding Paper Award in the Resources and Evaluation track at **EMNLP 2023**. [Paper](https://aclanthology.org/2023.emnlp-main.136/).
 
