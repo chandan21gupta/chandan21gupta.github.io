@@ -3,9 +3,9 @@ title: "Home"
 description: "Chandan Gupta — researcher in scientific AI, self-improving agents, and machine learning."
 ---
 
-I’m **Chandan Gupta**, a researcher at **IIT Delhi** working with **Dr. N. M. Anoop Krishnan**. My current work is on self-improving agents for scientific problems where success is difficult to verify, including material synthesis.
+I’m **Chandan Gupta**, a researcher at **IIT Delhi** working with **Dr. N. M. Anoop Krishnan**. My current work is on self-improving agents for non-verifiable domains, such as materials science.
 
-My research has taken me across scientific domains: from learning physical dynamics during an internship at **Czech Technical University in Prague**, to inferring human aging trajectories with the **University of Cambridge**, and now to evaluating and developing scientific agents at IIT Delhi. Across these projects, I’m interested in how machine learning can help investigate complex scientific systems.
+I’m interested in **AI for Science**: how AI can enable autonomous scientific discovery. I’ve explored this across several fields, including physics, biology, and materials science.
 
 ### Selected research
 
