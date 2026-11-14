@@ -5,6 +5,8 @@ description: "Chandan Gupta — researcher in scientific AI, self-improving agen
 
 *Machine learning engineer · AI researcher · AI for Science*
 
+[CV](https://drive.google.com/file/d/1M3HKwo1ZA2jJPmZuJ74JZrnh5JzNpBeF/view?usp=sharing) · [LinkedIn](https://in.linkedin.com/in/chandan-gupta-18aa5a184) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=GVQrnLsAAAAJ&view_op=list_works&sortby=pubdate) · [Email](mailto:chandancod88@gmail.com)
+
 I’m **Chandan Gupta**, a researcher at **IIT Delhi** working with **Dr. N. M. Anoop Krishnan**. My current work is on self-improving agents for non-verifiable domains, such as materials science.
 
 I’m interested in **AI for Science**: how AI can enable autonomous scientific discovery. My research has taken me across physics, biology, and materials science, with research experience at the **University of Cambridge** and **Czech Technical University in Prague**.
