@@ -11,7 +11,7 @@ I’m interested in **AI for Science**: how AI can enable autonomous scientific 
 
 Earlier, I worked in industry as an **Associate Machine Learning Scientist I at Wadhwani AI** (Dec 2022–Jun 2024), engineering AI for social good in agriculture. I built uncertainty-aware crop disease and pest models, crop-yield predictions, and a causal advisory system for farmers. I also developed data-drift monitoring and deployed research models through NVIDIA Triton for cloud and Android field applications.
 
-For the broader questions that connect these projects, see [Research](/research/). 
+For the broader research questions that I am interested in, see [Research](/research/). 
 
 I read a lot, from fiction to non-fiction, to philosophy. I maintain a list of books I have read and currently reading. You can access them at [Books](/books/)
 
