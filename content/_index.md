@@ -7,13 +7,13 @@ description: "Chandan Gupta — researcher in scientific AI, self-improving agen
 
 I’m **Chandan Gupta**, a researcher at **IIT Delhi** working with **Dr. N. M. Anoop Krishnan**. My current work is on self-improving agents for non-verifiable domains, such as materials science.
 
-I’m interested in **AI for Science**: how AI can enable autonomous scientific discovery. I’ve explored this across several fields, including physics, biology, and materials science.
+I’m interested in **AI for Science**: how AI can enable autonomous scientific discovery. My research has taken me across physics, biology, and materials science, with research experience at the **University of Cambridge** and **Czech Technical University in Prague**, alongside applied machine learning work at **Wadhwani AI**.
 
 ### Selected research
 
 - **Scientific agents:** Co-developed Corral, an evaluation of scientific agents across eight domains and 25,000+ runs. Presented orally at the **NeurIPS 2025 AI for Science Workshop**. [Paper](https://openreview.net/forum?id=OLJp4ndI7i).
 - **Computational biology:** Inferred human aging trajectories from cross-sectional DNA methylation data. Accepted at **MLCB 2026**. [Paper](https://arxiv.org/abs/2607.06583).
-- **Scientific machine learning:** Developed symplectic neural methods for learning physical dynamics and generalized Hamiltonians, published in the *Journal of Physics A: Mathematical and Theoretical*. [Read the paper](https://iopscience.iop.org/article/10.1088/1751-8121/aebd27).
+- **Scientific machine learning:** Developed symplectic neural methods for learning physical dynamics and generalized Hamiltonians, published in the *Journal of Physics A: Mathematical and Theoretical*. [Paper](https://iopscience.iop.org/article/10.1088/1751-8121/aebd27).
 
 ### Applied machine learning
 
