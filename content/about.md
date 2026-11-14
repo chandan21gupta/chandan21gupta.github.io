@@ -6,13 +6,13 @@ menu:
     weight: 2
 ---
 
-I’m **Chandan Gupta**, an independent researcher and writer. I’m interested in [the questions, fields, or problems that guide your work].
+This site is a space for my ideas, reflections, books I read, questions I’m interested in, experiments I’ve done, and other things I want to think through in public.
 
-This site brings together three parts of my intellectual life: research, reading, and writing. They matter to me in equal measure, and I hope the connections between them are visible here.
+I also hope it can be a way to share them. If something interests you—a question, an experiment, or an idea you agree or disagree with—feel free to get in touch.
 
 ### Background
 
-Add a concise account of your education, work, and the experiences that shaped your interests. A few selected details are often more useful here than a full CV.
+I studied Computer Science and Biosciences at the Indraprastha Institute of Information Technology Delhi. My work has taken me from applied machine learning in agriculture to research on scientific agents, physical systems, and computational biology.
 
 ### Elsewhere
 

@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "A space for research, books, and writing."
-  title = "An Intellectual Space"
+  title = "Chandan Gupta"
   hideMadeWithLine = false
 
 [menu]
