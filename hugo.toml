@@ -21,21 +21,9 @@ disableKinds = ["taxonomy", "term"]
     url = "/about/"
     weight = 2
   [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 3
-  [[menu.main]]
     name = "Publications"
     url = "/publications/"
     weight = 4
-  [[menu.main]]
-    name = "Books"
-    url = "/books/"
-    weight = 5
-  [[menu.main]]
-    name = "Writing"
-    url = "/writing/"
-    weight = 6
 
 [markup]
   [markup.highlight]
