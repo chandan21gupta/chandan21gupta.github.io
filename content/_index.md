@@ -15,6 +15,4 @@ Earlier, I worked in industry as an **Associate Machine Learning Scientist I at 
 
 <!-- For the broader research questions that I am interested in, see [Research](/research/).  -->
 
-I read a lot, from fiction to non-fiction, to philosophy. I maintain a list of books I have read and currently reading. You can access them at [Books](/books/)
-
-I often write about a variety of things. You can access my writings at [Writing](/writing/)
+I’m currently looking for roles that combine research and engineering. If you’re hiring for work at this intersection, please [get in touch](mailto:chandancod88@gmail.com).

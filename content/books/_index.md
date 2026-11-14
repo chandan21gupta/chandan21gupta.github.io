@@ -8,6 +8,8 @@ menu:
 
 Books are not just a backdrop to research; they are companions, interlocutors, and sometimes productive disagreements. This is a space for reading notes, recommendations, and ideas I want to keep thinking about.
 
+I read widely, from fiction and nonfiction to philosophy. Here I keep a list of books I’ve read and am currently reading.
+
 ### On my desk
 
 Add a few books you are reading now, with a sentence on what drew you to each.
