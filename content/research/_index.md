@@ -1,9 +1,6 @@
 ---
 title: "Research"
 description: "Research interests, projects, and publications."
-menu:
-  main:
-    weight: 3
 ---
 
 I’m interested in **AI for Science**: how machine learning can help researchers form hypotheses, design experiments, interpret evidence, and make progress in systems where answers are uncertain or costly to obtain. My work has moved across several scientific domains, and each has shaped how I think about the promise and limits of AI in research.

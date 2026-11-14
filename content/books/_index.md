@@ -1,9 +1,6 @@
 ---
 title: "Books"
 description: "Books, reading notes, and ideas worth returning to."
-menu:
-  main:
-    weight: 4
 ---
 
 Books are not just a backdrop to research; they are companions, interlocutors, and sometimes productive disagreements. This is a space for reading notes, recommendations, and ideas I want to keep thinking about.
