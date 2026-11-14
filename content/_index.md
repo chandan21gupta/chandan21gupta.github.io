@@ -8,14 +8,12 @@ description: "A space for research, books, and writing."
 I’m **Chandan Gupta**, an independent researcher and writer. My interests include [add your current research interests] and the ideas that travel between scholarship and everyday life. -->
 
 
-Hi! I am **Chandan Gupta**, currently working as a researcher at IIT Delhi, under Dr. N.M. Anoop Krishnan. My research is focussed on self improving agents, particularly in non-verifiable domains like material sciences.
+Hi! I am **Chandan Gupta**, currently working as a researcher at IIT Delhi, under Dr. N.M. Anoop Krishnan. At IIT Delhi, my research is focussed on self improving agents, particularly in non-verifiable domains like material sciences.
 
 I see this website in two ways:
 
 1. As a collection of my ideas, reflections, books I read, questions I’m interested in, experiments I’ve done, and other things.
-2. As a way to share them.
-
-If you find something interesting—or strongly disagree—feel free to engage with me.
+2. As a means to share them. Hence, if you something interests you - a question, an experiment, or an idea you agree or disagree with - feel free to engage with me. 
 
 Explore [my research](/research/), [books and reading notes](/books/), and [essays and other writing](/writing/), or learn [a little about me](/about/).
 
