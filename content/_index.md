@@ -13,4 +13,8 @@ See my [selected publications](/publications/) or visit [Google Scholar](https:/
 
 Earlier, I worked in industry as an **Associate Machine Learning Scientist I at Wadhwani AI** (Dec 2022–Jun 2024), engineering AI for social good in agriculture. I built uncertainty-aware crop disease and pest models, crop-yield predictions, and a causal advisory system for farmers. I also developed data-drift monitoring and deployed research models through NVIDIA Triton for cloud and Android field applications.
 
-For the broader questions that connect these projects, see [Research](/research/). I also write about [books](/books/) and [ideas](/writing/).
+For the broader questions that connect these projects, see [Research](/research/).
+
+I read widely, from fiction and nonfiction to philosophy. You can browse the books I’ve read and am currently reading on the [Books](/books/) page.
+
+I also write about a range of topics. You can find my pieces on the [Writing](/writing/) page.
